@@ -1,4 +1,4 @@
-name: 'Use ophub script to package Armvirt as OpenWrt'
+name: 'Openwrt'
 author: 'ophub'
 description: 'Package Armvirt as OpenWrt. Support Amlogic S9xxx STB.'
 inputs:

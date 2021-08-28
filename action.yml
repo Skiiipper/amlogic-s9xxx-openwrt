@@ -1,4 +1,4 @@
-name: 'Openwrt'
+name: 'Skipper-Openwrt'
 author: 'ophub'
 description: 'Package Armvirt as OpenWrt. Support Amlogic S9xxx STB.'
 inputs:
